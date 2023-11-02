@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to SylveonDeko's Hub! 🌟</h1>
 
 <p align="center">
-  <img src="https://cdn.mewdeko.tech/sylv.gif" width="120" height="120">
+  <img src="https://cdn.mewdeko.tech/sylv.gif" width="380" height="320">
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Main Projects:
-- **Mewdeko**: An all-purpose and free Discord bot tailored for maximizing fun and utility in your server—your very own digital Pokémon!
-- **MewdekoDash**: The central hub for Mewdeko, offering a user-friendly dashboard for customizing your experience.
-- **BoostBotV2**: A unique bot that invites new "trainers" to your server, ensuring a lively and active community.
+- **[Mewdeko](https://github.com/SylveonDeko/Mewdeko)**: An all-purpose and free Discord bot tailored for maximizing fun and utility in your server—your very own digital Pokémon!
+- **[MewdekoDash](https://github.com/SylveonDeko/MewdekoDash)**: The central hub for Mewdeko, offering a user-friendly dashboard for customizing your experience.
+- **[BoostBotV2](https://github.com/SylveonDeko/BoostBotV2)**: A unique bot that invites new "trainers" to your server, ensuring a lively and active community.
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -27,13 +27,13 @@
 
 ### 🌐 Mewdeko Website:
 <p align="center">
-  <a href="https://mewdeko.tech" target="_blank"><img alt="Mewdeko" src="https://img.shields.io/badge/Mewdeko-7289DA?style=flat-square&logo=Discord&logoColor=white" /></a>
+  <a href="https://mewdeko.tech" target="_blank"><img alt="Mewdeko" src="https://cdn.mewdeko.tech/Mewdeko.png" width="200" height="200"/></a>
 </p>
 
 ### 🤝 Connect with me:
 <p align="center">
-  <a href="https://discord.gg/deko" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://ko-fi.com/mewdeko" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a href="https://discord.gg/deko" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="120" height="40"/></a>
+  <a href="https://ko-fi.com/mewdeko" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="120" height="40"/></a>
 </p>
 
 ---
