@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to SylveonDeko's Hub! 🌟</h1>
 
 <p align="center">
-  <img src="https://cdn.mewdeko.tech/sylveon.gif" width="120" height="120">
+  <img src="https://cdn.mewdeko.tech/sylv.gif" width="120" height="120">
 </p>
 
 <p align="center">
