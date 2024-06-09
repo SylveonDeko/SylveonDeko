@@ -11,8 +11,8 @@
 ---
 
 ### 🚀 Main Projects:
-- **[Mewdeko](https://github.com/SylveonDeko/Mewdeko)**: An all-purpose and free Discord bot tailored for maximizing fun and utility in your server—your very own digital Pokémon!
-- **[MewdekoDash](https://github.com/SylveonDeko/MewdekoDash)**: The central hub for Mewdeko, offering a user-friendly dashboard for customizing your experience.
+- **[Mewdeko](https://github.com/SylveonDeko/Mewdeko)**: An all-purpose and free Discord bot tailored for maximizing fun and utility in your server, the only bot truly symbolizing what it means to be FOSS!
+- **[MewdekoDash](https://github.com/SylveonDeko/MewdekoDash)**: The central hub for Mewdeko, offering a user-friendly dashboard(soon:tm: for customizing your experience.
 
 ### 🛠️ Languages and Tools:
 <p align="center">
